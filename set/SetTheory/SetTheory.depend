@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1396215510 source:c:\users\hp\desktop\settheory\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	"set1.h"
+
+1396215840 c:\users\hp\desktop\settheory\set1.h
+
+1396215784 source:c:\users\hp\desktop\settheory\set1.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<math.h>
+	"set1.h"
+
+1396215784 source:g:\settheory\set1.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<math.h>
+	"set1.h"
+
+1396215840 g:\settheory\set1.h
+
+1396215510 source:g:\settheory\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	"set1.h"
+

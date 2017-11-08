@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1395668692 source:c:\users\hp\desktop\settheory\set.cpp
+	<iostream>
+	<stdlib.h>
+	"set.h"
+
+1395310535 c:\users\hp\desktop\settheory\set.h
+
+1395668532 source:c:\users\hp\desktop\settheory\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	"set.h"
+
+1395668534 source:i:\settheory\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	"set.h"
+
+1395310536 i:\settheory\set.h
+
+1395732512 source:i:\settheory\set.cpp
+	<iostream>
+	<stdlib.h>
+	"set.h"
+
+1395668534 source:g:\set project\settheory\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	"set.h"
+
+1395310536 g:\set project\settheory\set.h
+
+1395732512 source:g:\set project\settheory\set.cpp
+	<iostream>
+	<stdlib.h>
+	"set.h"
+

@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1396288555 source:c:\users\hp\desktop\set\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"SET-THEORY.h"
+
+1396288539 c:\users\hp\desktop\set\set-theory.h
+
+1396288555 source:c:\users\hp\desktop\set\set-theory.c
+	"SET-THEORY.h"
+
+1396288556 source:g:\set\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"SET-THEORY.h"
+
+1396288540 g:\set\set-theory.h
+
+1396239956 source:g:\set project\set\set\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"SET-THEORY.h"
+
+1396239940 g:\set project\set\set\set-theory.h
+
